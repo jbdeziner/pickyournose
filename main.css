@@ -35,7 +35,7 @@
 		margin:0;
 		padding:0;
 		width:100%;}
-	li
+	li:navlinks
 		{display:inline-block;
 		width:150px;
 		padding:40px 0px 40px 40px;
@@ -51,11 +51,15 @@
 /*nav ends here*/
 /*main starts here*/
 	main
-		{width:100%;
+		{
+		width:100%;
 		content-align:center;
 		display:inline-block;
 		margin: auto;
 		padding-bottom:300px;}
+		.photo_gal {
+			width: 75%;
+		}
 		
 	.content_wrapper {
 		width: 80%;
