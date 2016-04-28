@@ -84,7 +84,7 @@
 		{text-align:center;
 		width:100%;}
 /*index page ends here*/
-/*merchandise page starts here*/
+/*madras page starts here*/
 	#sidebar2
 		{width: 270px;
 		padding-left: 50px;
@@ -102,7 +102,7 @@
 		{content-align:center;
 		display:inline-block;
 		padding:20px;}
-/*merchnadise page ends here*/
+/*madras page ends here*/
 /*about us page starts*/
 
 	#pagewrap 
@@ -132,9 +132,14 @@
 
 	
 /*about us page ends*/
-/*showings page starts here*/
-	
-/*showings page ends here*/
+/*pick your nose starts here*/
+.flip-horizontal {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph; /*IE*/
+}
+/*pickyournose page ends here*/
 /*contact page starts here*/
 	.contactimgs
 		{width:200px;
