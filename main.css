@@ -22,7 +22,7 @@
 	header img
 		{padding-left:30px;
 		padding-right:20px;
-		padding-top:20px;
+		padding-top:10px;
 		width:150px;
 		float:left;}
 /*nav starts here*/
@@ -85,6 +85,10 @@
 		width:100%;}
 /*index page ends here*/
 /*merchandise page starts here*/
+	#sidebar2
+		{width: 270px;
+		padding-left: 50px;
+		float: left;}
 	#merchpage	
 		{text-align:center;
 		margin:auto;
